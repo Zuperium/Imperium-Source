@@ -1,0 +1,12 @@
+// Create a folder name 'commands'
+// put all commands (.js) in that folder except for (index.js)
+// Then shift right click the folder + run with powershell / cmd
+// write in the terminal 'nodemon index.js' (if u have nodemon installed) or 'node.js'
+
+// for more proper shit please watch the shit below!
+// https://www.youtube.com/playlist?list=PLdnyVeMcpY7-GfaXaWBOb3ZQkJxP53BIx
+
+// ok
+// thanks
+// for
+// reading!
